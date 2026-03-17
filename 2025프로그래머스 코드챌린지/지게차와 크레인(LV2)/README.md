@@ -1,5 +1,5 @@
 # 문제 제목 
-- 서버 증설 횟수
+- 지게차와 크레인
 
 # 문제 링크
 - https://school.programmers.co.kr/learn/courses/30/lessons/388352
