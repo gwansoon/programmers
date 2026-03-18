@@ -1,3 +1,4 @@
+package 프로그래머스_연습문제.광물캐기_LV2_그리디;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;

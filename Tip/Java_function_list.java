@@ -1,3 +1,4 @@
+package Tip;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
@@ -30,6 +31,13 @@ class Java_function_list {
             if(b[0] != a[0]) return b[0]-a[0]; // 비교 조건 1
             return b[1]-a[1]; // 비교조건 2
         });
+        
+        //#############################################################
+        int value1 = 0;
+        int value2 = 0;
+        int min = Integer.MAX_VALUE; // 최대값 초기세팅
+
+        min = Math.min(value1, value2); // 가장 작은값반환
 
     }
 }
